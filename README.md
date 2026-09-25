@@ -22,9 +22,7 @@ Welcome to my GitHub profile! I am a software developer with specialized trainin
 ---
 
 ## 📂 Explore My Work
-Take a look at my repositories below to see my projects and get to know my coding journey! 
-
-* 📅 **Featured Project:** Check out my [לוח-שנה-ויוסטון](https://github.com) repository.
+Feel free to check out my repositories below to see my projects and get to know my coding journey! 
 
 ---
 
